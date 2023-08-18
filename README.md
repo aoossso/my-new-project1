@@ -1,5 +1,5 @@
 
-# Project Title :Customized Learning Assistant based on Your Interests
+# PrCustomized Learning Assistant based on Your Interests
 
 
 ## Summary: Creating an artificial intelligence assistant that aligns with your interests and individual learning needs could be a fascinating and useful project. This assistant could be in the form of an application or a web platform that utilizes machine learning and natural language processing techniques to deliver personalized educational content.
