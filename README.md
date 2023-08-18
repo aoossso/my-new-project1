@@ -1,7 +1,5 @@
 
-# Project Title
-
-Customized Learning Assistant based on Your Interests
+# Project Title :Customized Learning Assistant based on Your Interests
 
 
 ## Summary
